@@ -1,0 +1,14 @@
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+@media screen and (min-width: 330px) and (max-width: 730px) {
+    h1{
+        font-size: 35px;
+        font-weight: bold;
+        color: blue;
+        width: 380px;
+    }
+    
+}
